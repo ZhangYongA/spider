@@ -8,9 +8,7 @@ spring:
       cluster-nodes: localhost:9200
       cluster-name: elasticsearch_zhangyong
 
-
-
-
+#自定义的配置
 jdbc:
   url: jdbc:mysql://localhost:3306/spider
   username: root
